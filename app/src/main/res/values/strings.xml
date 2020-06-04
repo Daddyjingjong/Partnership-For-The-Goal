@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Partnersip For The Goal</string>
+
+
+    <!--    splash screen-->
+    <string name="num">17</string>
+    <string name="partner">Partnership</string>
+    <string name="fo">For</string>
+    <string name="goal"> The Goal</string>
+
+    <!--    titles-->
+    <string name="first_slide_title">The United Nations</string>
+    <string name="second_slide_title">Sustainable Development Goals</string>
+    <string name="third_slide_title">Partnership For The Goals</string>
+    <string name="fourth_slide_title">Goals</string>
+
+    <string name="first_slide_desc">Peace, dignity and equality
+on a healthy planet</string>
+    <string name="second_slide_desc">A collection of 17 global goals set by the UN’s member countries</string>
+    <string name="third_slide_desc">Revitalize the global partnership for sustainable development</string>
+    <string name="fourth_slide_desc">We Are the World</string>
+
+    <!--    buttons-->
+    <string name="skip_btn">skip</string>
+    <string name="next_btn">next</string>
+    <string name="lets_get_started">lets get started</string>
+
+
+    <string name="cartegories">Dashboard</string>
+
+    //activity_register/login
+    <string name="username">Username</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="reg_button">Register</string>
+    <string name="log_button">login</string>
+    <string name="already">Already have an account?</string>
+    <string name="back_to_register">Back to register...</string>
+
+
+    <!--    dashboard-->
+    <string name="description">Description</string>
+    <string name="share_ideas">Share Ideas</string>
+    <string name="available_partnerships">Available Partnerships</string>
+    <string name="other_sdg">Other SDGs</string>
+
+
+    <!--    Description-->
+    <string name="title1"> Mobilize resources to improve domestic revenue collection</string>
+    <string name="desc1">Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.</string>
+
+    <string name="title2"> Implement all development assistance commitments</string>
+    <string name="desc2">Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries.</string>
+
+    <string name="title3">Mobilize financial resources for developing countries</string>
+    <string name="desc3">Mobilize additional financial resources for developing countries from multiple sources.</string>
+
+    <string name="title4">Assist developing countries in attaining debt sustainability</string>
+    <string name="desc4">Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress</string>
+
+    <string name="title5"> Invest in least-developed countries</string>
+    <string name="desc5">Adopt and implement investment promotion regimes for least developed countries.</string>
+
+    <string name="title6">Knowledge sharing and cooperation for access to science, technology and innovation</string>
+    <string name="desc6">Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism.</string>
+
+    <string name="title7">Promote sustainable technologies to developing countries</string>
+    <string name="desc7">Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed.</string>
+
+    <string name="title8"> Strengthen the science, technology and innovation capacity for least-developed countries</string>
+    <string name="desc8">Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.</string>
+
+    <string name="title9">Enhanced SDG capacity in developing countries</string>
+    <string name="desc9">Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation.</string>
+
+    <string name="title10">Promote a universal trading system under the WTO</string>
+    <string name="desc10">Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda.</string>
+
+    <string name="title11">Increase the exports of developing countries</string>
+    <string name="desc11">Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</string>
+
+    <string name="title12">Remove trade barriers for least-developed countries</string>
+    <string name="desc12">Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access.</string>
+
+    <string name="title13">Enhance global macroeconomic stability</string>
+    <string name="desc13">Enhance global macroeconomic stability, including through policy coordination and policy coherence.</string>
+
+    <string name="title14">Enhance policy coherence for sustainable development</string>
+    <string name="desc14">Enhance policy coherence for sustainable development.</string>
+
+    <string name="title15"> Respect national leadership to implement policies for the sustainable development goals</string>
+    <string name="desc15">Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.</string>
+
+    <string name="title16"> Enhance the global partnership for sustainable development</string>
+    <string name="desc16">Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries.</string>
+
+    <string name="title17">Encourage effective partnerships</string>
+    <string name="desc17">Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships.</string>
+
+    <string name="title18"> Enhance availability of reliable data</string>
+    <string name="desc18">By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts.</string>
+
+    <string name="title19">Further develop measurements of progress</string>
+    <string name="desc19">By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.</string>
+
+
+</resources>

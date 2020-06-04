@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179452616041",
+    "firebase_url": "https://partnership-for-the-goals.firebaseio.com",
+    "project_id": "partnership-for-the-goals",
+    "storage_bucket": "partnership-for-the-goals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179452616041:android:c2b7e2b2a19f78d0b671f8",
+        "android_client_info": {
+          "package_name": "com.example.fgt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179452616041-c7fav9ep2sqoesuuhaovkqbe4decrgol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrn4yMRvzw8_R2JXm1w2zKhnRo6G0xBE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179452616041-c7fav9ep2sqoesuuhaovkqbe4decrgol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
